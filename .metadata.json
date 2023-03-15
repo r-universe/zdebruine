@@ -1,5 +1,9 @@
 [
   {
+    "package": "RcppClock",
+    "oncran": true
+  },
+  {
     "package": "RcppML",
     "oncran": true
   }
