@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "RcppClock"]
-	path = RcppClock
-	url = https://github.com/zdebruine/rcppclock
 [submodule "RcppML"]
 	path = RcppML
 	url = https://github.com/zdebruine/rcppml
